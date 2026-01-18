@@ -1,2 +1,13 @@
-# web-231
-Coursework for WEB 231 Enterprise JavaScript I
+\# WEB 231 Enterprise JavaScript I
+
+\## Contributors
+
+
+
+* Instructor: Richard Krasso
+* Leslie Espino
+
+
+
+
+
